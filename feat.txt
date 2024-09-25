@@ -1,1 +1,1 @@
-Merhaba bu feature branchinde yazılmış bir txt dökömanıdır.
+Merhaba bu feature branchinde yazılmış bir txt dökümanıdır.
